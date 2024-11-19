@@ -5,5 +5,6 @@ int main()
 {
     string name="hello bondhu gon";
     int age =23;
+    string countru ="bangladesh";
 
 }
